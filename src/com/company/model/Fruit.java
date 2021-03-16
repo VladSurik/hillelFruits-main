@@ -1,6 +1,6 @@
 package com.company.model;
 
-import com.company.Color;
+import java.awt.*;
 
 public class Fruit {
 
